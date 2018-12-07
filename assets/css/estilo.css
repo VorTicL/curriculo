@@ -1,0 +1,28 @@
+
+.meio{
+	margin: 0 auto;
+	padding-top: 70px;
+}
+
+.imagem{
+	border-radius: 150px;
+}
+
+.container-fluid{
+	position: relative;
+}
+
+
+h2{
+	padding: 15px;
+}
+
+.padding{
+	padding-top: 35px;
+}
+
+.icone{
+	text-decoration: none;
+	color: #999;
+	padding: 15px;
+}
